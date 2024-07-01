@@ -1,0 +1,19 @@
+#bg {
+    background: url(Nintendo_Switch_logo.svg.png);
+    background-repeat: no-repeat;
+    background-size: 2475px;
+}
+
+
+#head {
+    color: white;
+}
+#catch {
+    color: gold;
+}
+#games {
+    color: green;
+}
+#ars {
+    color: gold;
+}

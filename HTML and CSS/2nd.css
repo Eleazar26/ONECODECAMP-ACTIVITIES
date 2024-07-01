@@ -1,0 +1,11 @@
+#bg {
+    background: url(NS\ Account.png);
+    background-repeat: no-repeat;
+    background-size: 1875px;
+    color: white;
+    font-size:larger;
+    outline-color: whitesmoke;
+    outline-width: 5px;
+    outline-style: dashed;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00; 
+}
